@@ -1,6 +1,6 @@
 #include "hello.hpp"
 
 int main() {
-    hello("World");
+    hello("C++");
     return 0;
 }
